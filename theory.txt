@@ -1,0 +1,51 @@
+1) What is Bootstrap??
+-  Bootstrap Is Readymade Framework of Web Design
+
+2) We Can use bootstrap online as well as offline??
+-  Online-(cdn)=Content delivery network
+-  offline- Doenload and use it
+
+3) History of bootstrap??
+-  Laptop/Computer	= Mobile
+-  www.facebook.com	= www.M.facebook.com
+
+4)	Device				MQ
+					
+      - Mobile			    <480 <576
+      - Smart Phone		    576> <720
+      - Tablet-Vertical		    720> <980
+      - Tablet-Horizantal	    980> <1200
+      - laptop/computer		    1200> <1400
+      - smart tv		    1400>  
+
+				
+
+5)			*Grid*
+
+	- col			- <480					
+	- col-5m		- <576
+	- col-md		- <768
+	- col-lg		- <992
+	- col-xl		- <1200
+	- col-xxl		- <1400
+
+6) What is row??
+-  When you give class row to any parent div it work like display flex
+
+7) Color name in bootstrap??
+-  red-danger
+-  green-success
+-  yellow-warning
+-  black-dark
+-  white-light
+-  blue-primary
+-  sky-blue- info
+-  gray-secondary
+
+
+
+
+
+
+
+

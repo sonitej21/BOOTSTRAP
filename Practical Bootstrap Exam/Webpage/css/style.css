@@ -1,0 +1,62 @@
+#b button{
+    border-radius: 50px;
+    transition: 0.8s;
+}
+#b #butlime{
+    background-color: #D2FF00;
+}
+#b button:hover{
+    background-color: #DBDBDB;
+    transform: scale(1.05);
+}
+#b #brow{
+    background-color: #E8E8E8;
+}
+#b #brow img{
+    transition: 0.5s;
+}
+#b #brow img:hover{
+    transform:  translateY(-10px);
+    transition: 0.5s;
+}
+#inc{
+    background-color: #F2F2F2;
+    border-radius: 20px;
+}
+#dc{
+    background-color: #D2FF00;
+    border-radius: 30px;
+    border: 2px solid #D2FF00;
+}
+#dc #imgdc{
+    width: 102%;
+    border-radius:0px 30px 30px 0px ;
+}
+#dc button{
+    border-radius: 50px;
+    transition: 0.8s;
+}
+#dc button:hover{
+    background-color: #DBDBDB;
+    transform: scale(1.05);
+}
+#e{
+    background-color: #F2F2F2;
+    border-radius: 50px 50px 0px 0px;
+}
+#e #ee p{
+    background-color: #DBDBDB;
+    border-radius: 0px 0px 10px 10px;
+}
+#e #ee:hover img{
+    border: 1px solid #D2FF00;
+    transition: 0.2s;
+}
+#e #ee:hover p{
+    background-color: #D2FF00;
+    transition: 0.2s;
+}
+#f li:hover{
+    color: #727272;
+    cursor: pointer;
+}
